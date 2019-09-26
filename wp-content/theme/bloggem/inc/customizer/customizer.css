@@ -1,0 +1,22 @@
+#sub-accordion-section-bloggem_theme_general_settings .customize-control-checkbox label {
+    font-weight: bold;
+}
+#sub-accordion-section-bloggem_theme_general_settings .customize-control-description {
+    font-size: 95%;
+    opacity: 0.8;
+}
+#_customize-description-bloggem_upgrade_msg, #_customize-description-bloggem_view_docs_button {
+    opacity: 1 !important;
+}
+.bd-ml-5 {
+    margin-left: 5px !important;
+}
+#customize-control-bloggem_upgrade_msg {
+    margin-top: 15px;
+}
+#customize-control-bloggem_upgrade_msg {
+    background: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+}

@@ -1,0 +1,86 @@
+/*
+Theme Name: BlogGem
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+    text-align: right;
+}
+.text-right {
+    text-align: left !important;
+}
+.text-left {
+    text-align: right !important;
+}
+.main-navigation ul {
+	padding-right: 0;
+}
+.main-navigation ul ul {
+    right: -999em !important;
+    left: auto !important;
+    text-align: right;
+    padding-right: 1rem;
+}
+.main-navigation ul li:hover > ul, .main-navigation ul li.focus > ul {
+    right: auto !important;
+}
+.main-navigation ul ul li:hover > ul, .main-navigation ul ul li.focus > ul {
+    left: auto !important;
+    right: 100% !important;
+}
+.entry-content blockquote {
+    padding-left: 10px;
+    padding-right: 50px;
+    border-right: 4px solid #dfdfdf;
+    border-left-width: 0;
+}
+.btn.cont-btn {
+	padding-right: 0;
+}
+.fa-arrow-right:before {
+	content: "\f060";
+}
+.posts-navigation .nav-next .btn.cont-btn, .posts-navigation .nav-previous .btn.cont-btn {
+	padding-right: 0;
+}
+.posts-navigation .nav-previous .btn.cont-btn:before {
+	margin: 0 10px;
+}
+.posts-navigation .nav-next .btn.cont-btn:after, .posts-navigation .nav-previous .btn.cont-btn:after {
+	margin-right: 10px;
+}
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+	text-align: left;
+}
+.ml-2 {
+    margin-right: 0.5rem !important;
+}
+.mr-2 {
+    margin-left: 0.5rem !important;
+}
+.widget ul {
+    padding-right: 0;
+}
+.widget .widget-title {
+	border-right: 3px solid #181818;
+	border-left-width: 0px;
+}
+.comments-area .comment-list {
+    padding-right: 0;
+}
+.comments-area .comment-list .comment-author.vcard img {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.ml-1 {
+    margin-right: 0.25rem !important;
+}

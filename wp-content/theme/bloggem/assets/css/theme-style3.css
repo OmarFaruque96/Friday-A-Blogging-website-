@@ -1,0 +1,37 @@
+body { font-family: 'Roboto', sans-serif; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Roboto', sans-serif; }
+
+.slicknav_nav { font-family: 'Roboto', sans-serif; }
+
+.mks_author_widget .mks_author_link { font-family: 'Roboto', sans-serif; }
+
+.btn-primary, .btn.cont-btn, input[type="submit"] { font-family: 'Roboto', sans-serif; }
+
+.main-navigation a { font-family: 'Roboto', sans-serif; }
+
+.main-nav-bg { background: #EF1D18; }
+
+.main-navigation a { color: rgba(255, 255, 255, 0.75); }
+
+.main-navigation a:hover, .main-navigation a:active, .main-navigation a:focus { color: #fff; opacity: 1; }
+
+.main-navigation .current_page_item > a { color: #fff; opacity: 1; }
+
+.main-navigation ul ul { background: #EF1D18; }
+
+.widget .widget-title { border-color: #EF1D18; }
+
+.slicknav_menu { background: #EF1D18; }
+
+.btn-primary, .btn.cont-btn, input[type="submit"] { color: #EF1D18; }
+
+.btn.cont-btn:after { background: #EF1D18; }
+
+.slicknav_btn { text-shadow: none; background: #EF1D18; color: #fff; }
+
+.slicknav_menu .slicknav_icon-bar { background-color: #fff; }
+
+.slicknav_nav { background: #EF1D18; }
+
+.slicknav_nav a { color: rgba(255, 255, 255, 0.75); }

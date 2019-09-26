@@ -1,0 +1,37 @@
+body { font-family: 'Source Sans Pro', sans-serif; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Montserrat', sans-serif; }
+
+.slicknav_nav { font-family: 'Montserrat', sans-serif; }
+
+.mks_author_widget .mks_author_link { font-family: 'Montserrat', sans-serif; }
+
+.btn-primary, .btn.cont-btn, input[type="submit"] { font-family: 'Montserrat', sans-serif; }
+
+.main-navigation a { font-family: 'Montserrat', sans-serif; }
+
+.main-nav-bg { background: #ffc107; }
+
+.main-navigation a { color: rgba(0, 0, 0, 0.6); }
+
+.main-navigation a:hover, .main-navigation a:active, .main-navigation a:focus { color: rgba(0, 0, 0, 0.9); }
+
+.main-navigation .current_page_item > a { color: #181818; opacity: 1; }
+
+.main-navigation ul ul { background: #ffc107; }
+
+.widget .widget-title { border-color: #ffc107; }
+
+.slicknav_menu { background: #ffc107; }
+
+.slicknav_btn { text-shadow: none; }
+
+.slicknav_menu .slicknav_icon-bar { -webkit-box-shadow: none; box-shadow: none; }
+
+.slicknav_btn { text-shadow: none; background: #ffc107; color: #181818; }
+
+.slicknav_menu .slicknav_icon-bar { background-color: #181818; }
+
+.slicknav_nav { background: #ffc107; }
+
+.slicknav_nav a { color: #181818; }

@@ -1,0 +1,39 @@
+body { font-family: 'Lato', sans-serif; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Lato', sans-serif; }
+
+.slicknav_nav { font-family: 'Lato', sans-serif; }
+
+.mks_author_widget .mks_author_link { font-family: 'Lato', sans-serif; }
+
+.btn-primary, .btn.cont-btn, input[type="submit"] { font-family: 'Lato', sans-serif; }
+
+.main-navigation a { font-family: 'Lato', sans-serif; }
+
+.main-nav-bg { background: #007bff; }
+
+.main-navigation a { color: rgba(255, 255, 255, 0.75); }
+
+.main-navigation a:hover, .main-navigation a:active, .main-navigation a:focus { color: #fff; opacity: 1; }
+
+.main-navigation .current_page_item > a { color: #fff; opacity: 1; }
+
+.main-navigation ul ul { background: #007bff; }
+
+.widget .widget-title { border-color: #007bff; }
+
+.slicknav_menu { background: #007bff; }
+
+.slicknav_menu .slicknav_icon-bar { -webkit-box-shadow: none; box-shadow: none; }
+
+.btn-primary, .btn.cont-btn, input[type="submit"] { color: #007bff; }
+
+.btn.cont-btn:after { background: #007bff; }
+
+.slicknav_btn { text-shadow: none; background: #007bff; color: #fff; }
+
+.slicknav_menu .slicknav_icon-bar { background-color: #fff; }
+
+.slicknav_nav { background: #007bff; }
+
+.slicknav_nav a { color: rgba(255, 255, 255, 0.75); }

@@ -1,0 +1,414 @@
+# Copyright (C) 2019 TwoPoints
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: BlogGem 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/bloggem\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-07-06T14:26:23+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: bloggem\n"
+
+#. Theme Name of the theme
+msgid "BlogGem"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wp-points.com/themes/bloggem/"
+msgstr ""
+
+#. Description of the theme
+msgid "BlogGem is simple and easy to use blog theme. It is designed and developed primarily to create professional blogging websites. It is fully responsive and works flawlessly on all type of devices like mobiles, tablets, laptops, and computers. BlogGem is search engine friendly. It integrates perfectly with popular SEO plugins like Yoast SEO to create an SEO ready blog. BlogGem is fast, secure and lightweight."
+msgstr ""
+
+#. Author of the theme
+msgid "TwoPoints"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wp-points.com/"
+msgstr ""
+
+#: functions.php:27
+msgid "Primary"
+msgstr ""
+
+#: functions.php:81
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:83
+#: functions.php:93
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:91
+msgid "Header Right"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:46
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:58
+msgid "Most Used Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:5
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:17
+msgid "Enter logo height (in px)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:32
+msgid "Choose Style"
+msgstr ""
+
+#: inc/customizer/theme-options.php:36
+msgid "Choose from different combinations of color & fonts."
+msgstr ""
+
+#: inc/customizer/theme-options.php:38
+msgid "Style 1 (Default)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:39
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer/theme-options.php:40
+msgid "Style 3"
+msgstr ""
+
+#: inc/customizer/theme-options.php:41
+msgid "Style 4"
+msgstr ""
+
+#: inc/customizer/theme-options.php:42
+msgid "Style 5"
+msgstr ""
+
+#: inc/customizer/theme-options.php:54
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer/theme-options.php:59
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-options.php:60
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-options.php:61
+msgid "Hide Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:73
+msgid "Display full posts on the Homepage"
+msgstr ""
+
+#: inc/customizer/theme-options.php:78
+msgid "By default, excerpt is displayed on the blog homepage."
+msgstr ""
+
+#: inc/customizer/theme-options.php:89
+msgid "Stick the Navbar to top"
+msgstr ""
+
+#: inc/customizer/theme-options.php:93
+msgid "Select this setting if you want to keep navigation bar fixed at top while scrolling."
+msgstr ""
+
+#: inc/customizer/theme-options.php:104
+msgid "Hide breadcrumbs on single post/page"
+msgstr ""
+
+#: inc/customizer/theme-options.php:108
+msgid "Select this setting if you want to hide breadcrumbs displayed on the single blog post/page."
+msgstr ""
+
+#: inc/customizer/theme-options.php:119
+msgid "Display cover section on Homepage"
+msgstr ""
+
+#: inc/customizer/theme-options.php:124
+msgid "Uncheck this setting if you want to hide cover section from the blog homepage."
+msgstr ""
+
+#: inc/customizer/theme-options.php:135
+msgid "Cover Section Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:144
+#: index.php:34
+msgid "Create A Beautiful Blog Easily."
+msgstr ""
+
+#: inc/customizer/theme-options.php:149
+msgid "Title on Cover Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:160
+#: index.php:35
+msgid "BlogGem is simple and easy to use blog theme. It is designed and developed primarily to create professional blogging websites."
+msgstr ""
+
+#: inc/customizer/theme-options.php:165
+msgid "Sub-title on Cover Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:182
+msgid "Take your website to the next level!"
+msgstr ""
+
+#: inc/customizer/theme-options.php:186
+msgid "<p>With the premium version, you get more premium features with professional technical support.</p><p>You can also improve your website’s speed and performance. Your website can be further optimized for better search engine ranking.</p> <a href=\"https://wp-points.com/themes/bloggem-pro/\" target=\"_blank\" class=\"button button-primary\">Learn More</a> <a href=\"https://bloggem-pro.wp-points.com/\" target=\"_blank\" class=\"button button-primary bd-ml-5\">View Pro Demo</a>"
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:231
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:270
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:272
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:274
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:276
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:278
+msgid "Week %s"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:788
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:817
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:871
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:789
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:790
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/lib/breadcrumb-trail/inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99
+#: template-parts/content-page.php:38
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-functions.php:119
+msgid "<p style=\"margin-bottom: 5px;\">Welcome! Thank you for choosing BlogGem. You can always reach out to us on the support forum if you need any help. Please do take a look at the pro version of the theme. If you liked our work, please support us by providing a review with 5-star ratings."
+msgstr ""
+
+#: inc/template-functions.php:121
+msgid "View Documentation"
+msgstr ""
+
+#: inc/template-functions.php:123
+msgid "View Pro Demo"
+msgstr ""
+
+#: inc/template-functions.php:125
+msgid "Rate us 5 stars"
+msgstr ""
+
+#: inc/template-functions.php:127
+msgid "Don't display this again!"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:75
+msgid "Leave a Reply"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:40
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:60
+#: template-parts/content-search.php:31
+msgid "Continue Reading"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:22
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr ""
+
+#: single.php:55
+msgid "Next"
+msgstr ""
+
+#: single.php:56
+msgid "Previous"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search&hellip;"
+msgstr ""
